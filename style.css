@@ -107,8 +107,7 @@ h1 {
 }
 
 .card.matched {
-    transform: rotateY(180deg) scale(0.95);
-    opacity: 0.9;
+    transform: rotateY(180deg);
     pointer-events: none;
     box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
 }
